@@ -1,0 +1,7 @@
+.venv
+old
+old_sltts
+audios-tests
+googleCred.json
+geminiCred.json
+src/__pycache__
